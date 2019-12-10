@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-
+<img src="/img/silvio_ortiz.jpg" />
 <p>Graduated from UC Davis with a BS in Biochemistry and Molecular Biology. I currently work as a fermentation engineer. 
 In the past years I have found interest in how computers allow us to automate workflows and answer insightful questions.
 Some of my favorite topics are data science, machine learning and web app development. </p>
