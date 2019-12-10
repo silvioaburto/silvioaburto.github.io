@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: minimal
 title: About me
-subtitle: Are you sure you want to know more about me? OK. Just keep reading.
 ---
 
 
-<p>Graduated from UC Davis with a BS in Biochemistry and Molecular Biology.
-In the past year I have found interest in how computers allow us to automate workflows and answer insightful questions.
+<p>Graduated from UC Davis with a BS in Biochemistry and Molecular Biology. I currently work as a fermentation engineer. 
+In the past years I have found interest in how computers allow us to automate workflows and answer insightful questions.
 Some of my favorite topics are data science, machine learning and web app development. </p>
 <p> I like to dig into data to extract patterns, useful statistics and provide insightful conclusions.
  I will be using this site to post topics or personal projects related to data science, bioinformatics, and web development. </p>
