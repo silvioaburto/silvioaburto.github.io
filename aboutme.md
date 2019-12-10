@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Are you sure you want to know more about me? OK. Just keep reading.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<p>Graduated from UC Davis with a BS in Biochemistry and Molecular Biology.
+In the past year I have found interest in how computers allow us to automate workflows and answer insightful questions.
+Some of my favorite topics are data science, machine learning and web app development. </p>
+<p> I like to dig into data to extract patterns, useful statistics and provide insightful conclusions.
+ I will be using this site to post topics or personal projects related to data science, bioinformatics, and web development. </p>
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
