@@ -8,13 +8,12 @@
 }
 
 .p1_title {
-
 	text-align: center;
-
 }
 
-
-
+.container-fluid {
+	padding: 20px;
+}
 .comm_photo{
   width:80%;
   margin-left:10%;
