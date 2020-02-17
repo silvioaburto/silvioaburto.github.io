@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <head>
-	    <link rel="stylesheet" type="text/css" href="/css/custom.css"> 
+	<link rel="stylesheet" type="text/css" href="/css/custom.css"> 
 </head>
 <img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
 <p>Graduated from UC Davis with a BS in Biochemistry and Molecular Biology. I currently work as a fermentation engineer.
