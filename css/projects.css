@@ -2,6 +2,7 @@
 
 .p1_title {
 	text-align: center;
+	font-size:22px;
 }
 
 .comm_photo{
@@ -15,4 +16,8 @@
 .comm_photo:hover {
   opacity: 0.5;
   border: solid purple 2px;
+}
+
+.loteria_img {
+	width:70%;
 }
