@@ -1,0 +1,18 @@
+/* Some custom CSS*/
+
+.p1_title {
+	text-align: center;
+}
+
+.comm_photo{
+  width:80%;
+  margin-left:10%;
+  margin-right: 10%; 
+  margin-top:12px;
+  border-radius: 15px;
+}
+
+.comm_photo:hover {
+  opacity: 0.5;
+  border: solid purple 2px;
+}
