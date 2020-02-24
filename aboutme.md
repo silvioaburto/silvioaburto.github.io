@@ -12,18 +12,19 @@ title: About
 
 <h2>Experience</h2>
 ---
-<b>-Demetrix.- Berkeley, CA.</b>  
+<ul>
+<li><b>Demetrix.- Berkeley, CA.</b></li> 
   <b> Senior Process Engineer, HTP Fermentation</b>  
     <div class = "resume_date">Jul 2019- Present</div>  
 </br>
-<b>-Amyris Inc.- Emeryville, CA.</b>  
+<li><b>Amyris Inc.- Emeryville, CA.</b></li>
   <b> Associate Scientist III,  High Throughput Screening</b>  
     <div class = "resume_date">September 2016 - July 2019</div>  
 </br>
-<b>-Monsanto Co.- Woodland, CA.</b>  
+<li><b>-Monsanto Co.- Woodland, CA.</b></li>
   <b> Molecular Lab Technician, Seed Health</b>  
     <div class = "resume_date">June 2016 - August 2016</div>  
-
+</ul>
 <h2>Education</h2>
 ---
 <b>University of California, Davis</b>  
