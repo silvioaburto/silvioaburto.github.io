@@ -21,8 +21,8 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   BLOG: "index"
-  PROJECTS: "projects"
   ABOUT ME: "aboutme"
+  PROJECTS: "projects"
   TUTORIALS: "tutorials"
 
 

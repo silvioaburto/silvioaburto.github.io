@@ -6,7 +6,7 @@ title: About
 	<link rel="stylesheet" type="text/css" href="/css/aboutme.css"> 
 </head>
 <img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
-<p>Experienced in high-throughput screening processes. My areas of expertise are: operating automated systems, spec assay development, plate model development, scaling down bioreactor to microplate fermentation, databases, large data analysis,inferential and descriptive statistics, experimental design, automating lab processes using R, Python and various web frameworks.</p>
+<p>Experienced in high-throughput screening, operating automated systems, UV-VIS spectrophotomer assay development, scaling down bioreactor to microplate fermentation,inferential and descriptive statistics, experimental design and automating lab processes using R, Python and various web frameworks.</p>
 <p> I like to dig into data to extract patterns, useful statistics and provide insightful conclusions.
  I will be using this site to post topics or personal projects related to data science, bioinformatics, and web development. </p>
 
