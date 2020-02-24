@@ -6,7 +6,7 @@ title: About
 	<link rel="stylesheet" type="text/css" href="/css/aboutme.css"> 
 </head>
 <img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
-<p>Experienced in high-throughput screening processes. My areas of expertise are: operating automated systems, spec assay development, plate model development, scaling down bioreactor processes to fit microplate processes, databases, large data analysis,inferential and descriptive statistics, experimental design, automating lab processes using R, Python and various web frameworks.</p>
+<p>Experienced in high-throughput screening processes. My areas of expertise are: operating automated systems, spec assay development, plate model development, scaling down bioreactor to microplate fermentation, databases, large data analysis,inferential and descriptive statistics, experimental design, automating lab processes using R, Python and various web frameworks.</p>
 <p> I like to dig into data to extract patterns, useful statistics and provide insightful conclusions.
  I will be using this site to post topics or personal projects related to data science, bioinformatics, and web development. </p>
 
@@ -27,7 +27,7 @@ title: About
 <h2>Technologies</h2>  
 ---
 <ul>
-<b>Language</b>
+<b>Languages</b>
   <li>R - Proficient</li>
   <li>Python - Intermediate</li>
   <li>HTML - Intermediate</li>
@@ -36,7 +36,7 @@ title: About
   <li>F Sharp - Beginner  </li>
 </ul>
 <ul>
-<b>Database</b>
+<b>Databases</b>
   <li>MS SQL - Intermediate</li>
   <li>PostgreSQL - Intermediate </li> 
 </ul>
@@ -52,17 +52,25 @@ title: About
   <li>TIBCO Spotfire</li>
 </ul>
 <ul>
-<b>Other</b>
+<b>Others</b>
   <li>Git</li>
   <li>Mercurial</li>
   <li>Linux shell</li>
-  <li>Javascript</li>
 </ul>
+
+<h2>Projects</h2>
+---
+<ul>
+<li><a href="http://silvioaburto.github.io/loteria/">La Loteria</a></li>
+<li><a href="https://sortizaburto.shinyapps.io/power_calculator/">Sample size and Power Simulator</a></li>
+<li><a href="https://sortizaburto.shinyapps.io/final_project/">Microplate Sample Randomizer</a></li>
+<li><a href="https://sortizaburto.shinyapps.io/final_project/">Shiny App on Nicaraguan commodity imports and exports</a><li>
 
 <h2>Education</h2>
 ---
 <ul>
 <li><b>University of California, Davis</b></li>
+Bachelor of Science in Biochemistry and Molecular Biology
 <div class = "resume_date">2014-2016</div>  
 <li><b>Contra Costa College</b></li>
 <div class = "resume_date">2011-2013</div>  
