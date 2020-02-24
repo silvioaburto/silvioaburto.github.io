@@ -71,16 +71,16 @@ title: About
 Bachelor of Science in Biochemistry and Molecular Biology  
 </ul>
 
-<h2>Certificates</h2><
+<h2>Certificates</h2>
 ---
 <ul>
-	<li>Practical Machine Learning (With R) - UC Berkeley Extension</li>
+	<li><b>Practical Machine Learning (With R)</b> - UC Berkeley Extension</li>
 	<div class = "resume_date">Feb 2018- April 2018</div>
-	<li>Data Science Principles and Practice - UC Berkeley Extension</li>
+	<li><b>Data Science Principles and Practice</b> - UC Berkeley Extension</li>
 	<div class = "resume_date">Oct 2017- Dec 2017</div>
-	<li>Inference for Linear Regression - Datacamp</li>
+	<li><b>Inference for Linear Regression</b> - Datacamp</li>
 	<div class = "resume_date">Feb 2018</div>
-	<li>Supervised Learning Regression in R - Datacamp</li>
+	<li><b>Supervised Learning Regression in R</b> - Datacamp</li>
 	<div class = "resume_date">Feb 2018</div>
 </ul>
 
