@@ -61,7 +61,7 @@ title: About
   <li><a href="http://silvioaburto.github.io/loteria/">La Loteria</a></li>
   <li><a href="https://sortizaburto.shinyapps.io/power_calculator/">Sample size and Power Simulator</a></li>
   <li><a href="https://sortizaburto.shinyapps.io/plate_map_randomizer/">Microplate Sample Randomizer</a></li>
-  <li><a href="https://sortizaburto.shinyapps.io/nicaragua_commodity_trade/">Shiny App on Nicaraguan commodity imports and exports</a></li>
+  <li><a href="https://sortizaburto.shinyapps.io/nicaragua_commodity_trade/">App on Nicaraguan commodity imports and exports</a></li>
 </ul>
 
 <h2>Education</h2>
@@ -69,7 +69,19 @@ title: About
 <ul>
 <li><b>University of California, Davis</b><div class = "resume_date">2014-2016</div></li>
 Bachelor of Science in Biochemistry and Molecular Biology  
-<li><b>Contra Costa College</b><div class = "resume_date">2011-2013</div>  </li>
+</ul>
+
+<h2>Certificates</h2><
+---
+<ul>
+	<li>Practical Machine Learning (With R) - UC Berkeley Extension</li>
+	<div class = "resume_date">Feb 2018- April 2018</div>
+	<li>Data Science Principles and Practice - UC Berkeley Extension</li>
+	<div class = "resume_date">Oct 2017- Dec 2017</div>
+	<li>Inference for Linear Regression - Datacamp</li>
+	<div class = "resume_date">Feb 2018</div>
+	<li>Supervised Learning Regression in R - Datacamp</li>
+	<div class = "resume_date">Feb 2018</div>
 </ul>
 
 
