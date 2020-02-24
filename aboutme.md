@@ -27,28 +27,37 @@ title: About
 <h2>Technologies</h2>  
 ---
 <b>Language</b>
-* R - Proficient 
-* Python - Intermediate
-* HTML - Intermediate
-* CSS - Intermediate
-* Javascript - Beginner
-* F Sharp - Beginner  
+<ul>
+  <li>R - Proficient</li>
+  <li>Python - Intermediate</li>
+  <li>HTML - Intermediate</li>
+  <li>CSS - Intermediate</li>
+  <li>Javascript - Beginner</li>
+  <li>F Sharp - Beginner  </li>
+</ul>
 <b>Database</b>
-* MS SQL - Intermediate
-* PostgreSQL - Intermediate  
+<ul>
+  <li>MS SQL - Intermediate</li>
+  <li>PostgreSQL - Intermediate </li> 
+</ul>
 <b>Frameworks</b>
-* Python Flask
-* R Shiny, markdown
-* React  
+<ul>
+  <li>Python Flask</li>
+  <li>R Shiny, markdown</li>
+  <li>React</li>
+</ul>
 <b>Data Analysis </b>
-* JMP Data Analysis Software
-* TIBCO Spotfire  
+<ul>
+  <li>JMP Data Analysis Software</li>
+  <li>TIBCO Spotfire</li>
+</ul>
 <b>Other</b>
-* Git   
-* Mercurial  
-* Linux shell   
-* Javascript   
-
+<ul>
+  <li>Git</li>
+  <li>Mercurial</li>
+  <li>Linux shell</li>
+  <li>Javascript</li>
+</ul>
 <h2>Education</h2>
 ---
 <ul>
