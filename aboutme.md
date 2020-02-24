@@ -14,13 +14,13 @@ title: About
 ---
 <ul>
 <li><b>Demetrix- Berkeley, CA.</b></li> 
-  <b> Senior Process Engineer, HTP Fermentation</b>  
+  Senior Process Engineer, HTP Fermentation 
     <div class = "resume_date">Jul 2019- Present</div>  
 <li><b>Amyris Inc.- Emeryville, CA.</b></li>
-  <b> Associate Scientist III,  High Throughput Screening</b>  
+  Associate Scientist III,  High Throughput Screening
     <div class = "resume_date">September 2016 - July 2019</div>  
 <li><b>Monsanto Co.- Woodland, CA.</b></li>
-  <b> Molecular Lab Technician, Seed Health</b>  
+  Molecular Lab Technician, Seed Health 
     <div class = "resume_date">June 2016 - August 2016</div>  
 </ul>
 
@@ -32,17 +32,17 @@ title: About
 * HTML - Intermediate
 * CSS - Intermediate
 * Javascript - Beginner
-* F Sharp - Beginner
+* F Sharp - Beginner  
 <b>Database</b>
 * MS SQL - Intermediate
-* PostgreSQL - Intermediate
+* PostgreSQL - Intermediate  
 <b>Frameworks</b>
 * Python Flask
 * R Shiny, markdown
-* React
+* React  
 <b>Data Analysis </b>
 * JMP Data Analysis Software
-* TIBCO Spotfire
+* TIBCO Spotfire  
 <b>Other</b>
 * Git   
 * Mercurial  
