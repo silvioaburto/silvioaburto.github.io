@@ -13,15 +13,12 @@ title: About
 <h2>Experience</h2>
 ---
 <ul>
-<li><b>Demetrix- Berkeley, CA.</b></li> 
+<li><b>Demetrix- Berkeley, CA.</b><div class = "resume_date">Jul 2019- Present</div></li> 
   Senior Process Engineer, HTP Fermentation 
-    <div class = "resume_date">Jul 2019- Present</div>  
-<li><b>Amyris Inc.- Emeryville, CA.</b></li>
-  Associate Scientist III,  High Throughput Screening
-    <div class = "resume_date">September 2016 - July 2019</div>  
-<li><b>Monsanto Co.- Woodland, CA.</b></li>
+<li><b>Amyris Inc.- Emeryville, CA.</b><div class = "resume_date">September 2016 - July 2019</div></li>
+  Associate Scientist III,  High Throughput Screening  
+<li><b>Monsanto Co.- Woodland, CA.</b><div class = "resume_date">June 2016 - August 2016</div></li>
   Molecular Lab Technician, Seed Health 
-    <div class = "resume_date">June 2016 - August 2016</div>  
 </ul>
 
 <h2>Technologies</h2>  
@@ -37,8 +34,8 @@ title: About
 </ul>
 <ul>
 <b>Databases</b>
-  <li>MS SQL - Intermediate</li>
-  <li>PostgreSQL - Intermediate </li> 
+  <li>MS SQL</li>
+  <li>PostgreSQL</li> 
 </ul>
 <ul>
 <b>Frameworks</b>
@@ -69,11 +66,9 @@ title: About
 <h2>Education</h2>
 ---
 <ul>
-<li><b>University of California, Davis</b></li>
-Bachelor of Science in Biochemistry and Molecular Biology
-<div class = "resume_date">2014-2016</div>  
-<li><b>Contra Costa College</b></li>
-<div class = "resume_date">2011-2013</div>  
+<li><b>University of California, Davis</b><div class = "resume_date">2014-2016</div></li>
+Bachelor of Science in Biochemistry and Molecular Biology  
+<li><b>Contra Costa College</b><div class = "resume_date">2011-2013</div>  </li>
 </ul>
 
 
