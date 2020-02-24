@@ -26,8 +26,8 @@ title: About
 
 <h2>Technologies</h2>  
 ---
-<b>Language</b>
 <ul>
+<b>Language</b>
   <li>R - Proficient</li>
   <li>Python - Intermediate</li>
   <li>HTML - Intermediate</li>
@@ -35,29 +35,30 @@ title: About
   <li>Javascript - Beginner</li>
   <li>F Sharp - Beginner  </li>
 </ul>
-<b>Database</b>
 <ul>
+<b>Database</b>
   <li>MS SQL - Intermediate</li>
   <li>PostgreSQL - Intermediate </li> 
 </ul>
-<b>Frameworks</b>
 <ul>
+<b>Frameworks</b>
   <li>Python Flask</li>
   <li>R Shiny, markdown</li>
   <li>React</li>
 </ul>
-<b>Data Analysis </b>
 <ul>
+<b>Data Analysis </b>
   <li>JMP Data Analysis Software</li>
   <li>TIBCO Spotfire</li>
 </ul>
-<b>Other</b>
 <ul>
+<b>Other</b>
   <li>Git</li>
   <li>Mercurial</li>
   <li>Linux shell</li>
   <li>Javascript</li>
 </ul>
+
 <h2>Education</h2>
 ---
 <ul>
