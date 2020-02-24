@@ -12,30 +12,31 @@ title: About
 
 <h2>Experience</h2>
 ---
-*<b>Demetrix.- Berkeley, CA.</b>
-  <b>Senior Process Engineer, HTP Fermentation</b>
-    <div class = "resume_date">Jul 2019- Present</class>
+*<b>Demetrix.- Berkeley, CA.</b>  
+  <b>Senior Process Engineer, HTP Fermentation</b>  
+    <div class = "resume_date">Jul 2019- Present</div>  
 </br>
-*<b>Amyris Inc.- Emeryville, CA.</b>
-  <b>Associate Scientist III,  High Throughput Screening</b>
-    <div class = "resume_date">September 2016 - July 2019</class>
-*<b>Monsanto Co.- Woodland, CA.</b>
-  <b>Molecular Lab Technician, Seed Health</b>
-    <div class = "resume_date">June 2016 - August 2016</class>
+*<b>Amyris Inc.- Emeryville, CA.</b>  
+  <b>Associate Scientist III,  High Throughput Screening</b>  
+    <div class = "resume_date">September 2016 - July 2019</div>  
+</br>
+*<b>Monsanto Co.- Woodland, CA.</b>  
+  <b>Molecular Lab Technician, Seed Health</b>  
+    <div class = "resume_date">June 2016 - August 2016</div>  
 
 <h2>Education</h2>
 ---
-*<b>University of California, Davis</b>
-  <div class = "resume_date">2014-2016</class>
-*<b>Contra Costa College</b>
-  <div class = "resume_date">2011-2013</class>
+*<b>University of California, Davis</b>  
+  <div class = "resume_date">2014-2016</div>  
+*<b>Contra Costa College</b>  
+  <div class = "resume_date">2011-2013</div>  
 
-<h2>Technologies</h2>
+<h2>Technologies</h2>  
 ---
 * R - Proficient 
-* Python - Proficient
-* Git - Intermediate
-* Mercurial - Intermediate
-* Linux shell - Intermediate
-* Javascript - Beginner
+* Python - Proficient  
+* Git - Intermediate  
+* Mercurial - Intermediate  
+* Linux shell - Intermediate  
+* Javascript - Beginner  
 
