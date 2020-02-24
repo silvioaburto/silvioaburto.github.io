@@ -58,10 +58,11 @@ title: About
 <h2>Projects</h2>
 ---
 <ul>
-<li><a href="http://silvioaburto.github.io/loteria/">La Loteria</a></li>
-<li><a href="https://sortizaburto.shinyapps.io/power_calculator/">Sample size and Power Simulator</a></li>
-<li><a href="https://sortizaburto.shinyapps.io/final_project/">Microplate Sample Randomizer</a></li>
-<li><a href="https://sortizaburto.shinyapps.io/final_project/">Shiny App on Nicaraguan commodity imports and exports</a></li>
+  <li><a href="http://silvioaburto.github.io/loteria/">La Loteria</a></li>
+  <li><a href="https://sortizaburto.shinyapps.io/power_calculator/">Sample size and Power Simulator</a></li>
+  <li><a href="https://sortizaburto.shinyapps.io/final_project/">Microplate Sample Randomizer</a></li>
+  <li><a href="https://sortizaburto.shinyapps.io/final_project/">Shiny App on Nicaraguan commodity imports and exports</a></li>
+</ul>
 
 <h2>Education</h2>
 ---

@@ -7,4 +7,5 @@
 
 .resume_date{
 	color:gray;
+	white-space: nowrap;
 }
