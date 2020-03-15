@@ -5,7 +5,7 @@
 {% if page.bigimg %}
   <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
     {% for bigimg in page.bigimg %}
-	  {% assign imgnum = forloop.blog %}
+	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
 		  data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"

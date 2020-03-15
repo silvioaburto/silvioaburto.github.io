@@ -20,7 +20,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  BLOG: "blog"
+  BLOG: "index"
   ABOUT ME: "aboutme"
   PROJECTS: "projects"
   TUTORIALS: "tutorials"
