@@ -22,7 +22,7 @@
 	margin-right:10%;
 }
 
-.comm_img:hover, .randomizer_img:hover, .power_img:hover,.loteria_img:hover, .covid_img {
+.comm_img:hover, .randomizer_img:hover, .power_img:hover,.loteria_img:hover, .covid_img:hover {
   opacity: 0.5;
   border: solid purple 2px;
 }   	
