@@ -13,7 +13,9 @@ title: About
 <h2>Experience</h2>
 ---
 <ul>
-<li><b>Demetrix- Berkeley, CA.</b><div class = "resume_date">Jul 2019- Present</div></li> 
+<li><b>Amyris Inc.- Emeryville, CA.</b><div class = "resume_date">March 2020 - Present</div></li>
+  Automation Engineer, Bioinformatics, Automation and Software Engineering. 
+<li><b>Demetrix- Berkeley, CA.</b><div class = "resume_date">Jul 2019- March 2020</div></li> 
   Senior Process Engineer, HTP Fermentation 
 <li><b>Amyris Inc.- Emeryville, CA.</b><div class = "resume_date">September 2016 - July 2019</div></li>
   Associate Scientist III,  High Throughput Screening  
@@ -25,12 +27,13 @@ title: About
 ---
 <ul>
 <b>Languages</b>
-  <li>R - Proficient</li>
-  <li>Python - Intermediate</li>
-  <li>HTML - Intermediate</li>
-  <li>CSS - Intermediate</li>
-  <li>Javascript - Beginner</li>
-  <li>F Sharp - Beginner  </li>
+  <li>R</li>
+  <li>Python</li>
+  <li>C#</li>
+  <li>HTML</li>
+  <li>CSS </li>
+  <li>Javascript</li>
+  <li>F Sharp</li>
 </ul>
 <ul>
 <b>Databases</b>
