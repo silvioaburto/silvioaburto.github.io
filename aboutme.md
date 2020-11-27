@@ -29,11 +29,10 @@ title: About
 <b>Languages</b>
   <li>R</li>
   <li>Python</li>
+  <li>Javascript</li>
   <li>C#</li>
   <li>HTML</li>
   <li>CSS </li>
-  <li>Javascript</li>
-  <li>F Sharp</li>
 </ul>
 <ul>
 <b>Databases</b>
