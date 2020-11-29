@@ -60,6 +60,7 @@ title: About
 <h2>Projects</h2>
 ---
 <ul>
+  <li><a href="http://silvioaburto.com/covid_19/">Covid-19 Dashboard</a></li>
   <li><a href="http://silvioaburto.github.io/memory_game/">Memory Challenge</a></li>
   <li><a href="http://silvioaburto.github.io/loteria/">La Loteria</a></li>
   <li><a href="https://sortizaburto.shinyapps.io/power_calculator/">Sample size and Power Simulator</a></li>
