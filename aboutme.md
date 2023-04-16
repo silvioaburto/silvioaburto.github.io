@@ -9,7 +9,7 @@ title: About
 <img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
 <p>I enjoy automating labor-intensive lab processes into efficient, user-friendly workflows. I program systems composed of many lab instruments to carry out complex and labor-intensive workflows. I also build software tools in the form of web and desktop apps to help make the day to day easier for laboratory operators. I’m also very interested in data science, I enjoy analyzing data to get better insights and make informed decisions. </p>
 
-## <h2>Experience</h2>
+## Experience
 
 <ul>
 <li><b>Amyris Inc.- Emeryville, CA.</b><div class = "resume_date">March 2020 - Present</div></li>
@@ -22,7 +22,7 @@ title: About
   Molecular Lab Technician, Seed Health 
 </ul>
 
-## <h2>Technologies</h2>
+## Technologies
 
 <ul>
 <b>Languages</b>
@@ -59,7 +59,7 @@ title: About
   <li>Mercurial</li>
 </ul>
 
-## <h2>Projects</h2>
+## Projects
 
 <ul>
   <li><a href="http://silvioaburto.com/covid_19/">Covid-19 Dashboard</a></li>
@@ -70,14 +70,14 @@ title: About
   <li><a href="https://sortizaburto.shinyapps.io/nicaragua_commodity_trade/">App on Nicaraguan commodity imports and exports</a></li>
 </ul>
 
-## <h2>Education</h2>
+## Education
 
 <ul>
 <li><b>University of California, Davis</b><div class = "resume_date">2014-2016</div></li>
 Bachelor of Science in Biochemistry and Molecular Biology  
 </ul>
 
-## <h2>Certificates</h2>
+## Certificates
 
 <ul>
 	<li><b>Practical Machine Learning (With R)</b> - UC Berkeley Extension</li>
