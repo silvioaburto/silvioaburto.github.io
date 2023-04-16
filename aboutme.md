@@ -2,16 +2,15 @@
 layout: page
 title: About
 ---
+
 <head>
 	<link rel="stylesheet" type="text/css" href="/css/aboutme.css"> 
 </head>
 <img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
-<p>Experienced in high-throughput screening, operating automated systems, UV-VIS spectrophotomer assay development, scaling down bioreactor to microplate fermentation,inferential and descriptive statistics, experimental design and automating lab processes using R, Python and various web frameworks.</p>
-<p> I like to dig into data to extract patterns, useful statistics and provide insightful conclusions.
- I will be using this site to post topics or personal projects related to data science, bioinformatics, and web development. </p>
+<p>I enjoy automating labor-intensive lab processes into efficient, user-friendly workflows. I program systems composed of many lab instruments to carry out complex and labor-intensive workflows. I also build software tools in the form of web and desktop apps to help make the day to day easier for laboratory operators. I’m also very interested in data science, I enjoy analyzing data to get better insights and make informed decisions. </p>
 
-<h2>Experience</h2>
----
+## <h2>Experience</h2>
+
 <ul>
 <li><b>Amyris Inc.- Emeryville, CA.</b><div class = "resume_date">March 2020 - Present</div></li>
   Automation Engineer, Bioinformatics, Automation and Software Engineering. 
@@ -23,14 +22,14 @@ title: About
   Molecular Lab Technician, Seed Health 
 </ul>
 
-<h2>Technologies</h2>  
----
+## <h2>Technologies</h2>
+
 <ul>
 <b>Languages</b>
+  <li>C#</li>
   <li>R</li>
   <li>Python</li>
   <li>Javascript</li>
-  <li>C#</li>
   <li>HTML</li>
   <li>CSS </li>
 </ul>
@@ -41,24 +40,27 @@ title: About
 </ul>
 <ul>
 <b>Frameworks</b>
-  <li>Python Flask</li>
+  <li>Windows Forms</li>
+  <li>Python Flask, Pyramid</li>
   <li>R Shiny, markdown</li>
   <li>React</li>
 </ul>
 <ul>
-<b>Data Analysis </b>
+<b>Data Analysis</b>
   <li>JMP Data Analysis Software</li>
   <li>TIBCO Spotfire</li>
 </ul>
 <ul>
 <b>Others</b>
+  <li>Docker</li>
   <li>Git</li>
+  <li>Bash</li>
+  <li>Linux</li>
   <li>Mercurial</li>
-  <li>Linux shell</li>
 </ul>
 
-<h2>Projects</h2>
----
+## <h2>Projects</h2>
+
 <ul>
   <li><a href="http://silvioaburto.com/covid_19/">Covid-19 Dashboard</a></li>
   <li><a href="http://silvioaburto.github.io/memory_game/">Memory Challenge</a></li>
@@ -68,15 +70,15 @@ title: About
   <li><a href="https://sortizaburto.shinyapps.io/nicaragua_commodity_trade/">App on Nicaraguan commodity imports and exports</a></li>
 </ul>
 
-<h2>Education</h2>
----
+## <h2>Education</h2>
+
 <ul>
 <li><b>University of California, Davis</b><div class = "resume_date">2014-2016</div></li>
 Bachelor of Science in Biochemistry and Molecular Biology  
 </ul>
 
-<h2>Certificates</h2>
----
+## <h2>Certificates</h2>
+
 <ul>
 	<li><b>Practical Machine Learning (With R)</b> - UC Berkeley Extension</li>
 	<div class = "resume_date">Feb 2018- April 2018</div>
@@ -87,6 +89,3 @@ Bachelor of Science in Biochemistry and Molecular Biology
 	<li><b>Supervised Learning Regression in R</b> - Datacamp</li>
 	<div class = "resume_date">Feb 2018</div>
 </ul>
-
-
-
