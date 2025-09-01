@@ -2,9 +2,9 @@
 
 Personal Website
 
-# Local Dev using Docker
+# Local Dev
 
 ```
-docker build -t my-jekyll-site .
-docker run -p 4000:4000 -v $(pwd):/srv/jekyll my-jekyll-site
+bundle install
+bundle exec jekyll serve
 ```
