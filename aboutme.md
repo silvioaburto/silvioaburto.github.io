@@ -6,7 +6,7 @@ title: About
 <head>
 	<link rel="stylesheet" type="text/css" href="/css/aboutme.css"> 
 </head>
-<img class= "silvio_photo" src="/img/silvio_ortiz.jpg" />
+<img class= "silvio_photo" src="/img/silvio_ortiz.jpeg" />
 
 <p>
 Senior Full Stack Software Engineer | 5+ Years of Experience in Software Development | Expertise in Biotech & Startup Environments 
